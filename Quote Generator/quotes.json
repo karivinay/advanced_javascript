@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "content": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "Belief"
+  },
+  {
+    "id": 2,
+    "content": "The future belongs to those who believe in the beauty of their dreams.",
+    "author": "Eleanor Roosevelt",
+    "category": "Dreams"
+  },
+  {
+    "id": 3,
+    "content": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "Success"
+  },
+  {
+    "id": 4,
+    "content": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "Work"
+  },
+  {
+    "id": 5,
+    "content": "Your time is limited, don't waste it living someone else's life.",
+    "author": "Steve Jobs",
+    "category": "Time"
+  },
+  {
+    "id": 6,
+    "content": "Don't watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson",
+    "category": "Perseverance"
+  },
+  {
+    "id": 7,
+    "content": "The only limit to our realization of tomorrow will be our doubts of today.",
+    "author": "Franklin D. Roosevelt",
+    "category": "Doubt"
+  },
+  {
+    "id": 8,
+    "content": "In the middle of every difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "Opportunity"
+  },
+  {
+    "id": 9,
+    "content": "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
+    "author": "Christian D. Larson",
+    "category": "Self-belief"
+  },
+  {
+    "id": 10,
+    "content": "The harder I work, the luckier I get.",
+    "author": "Gary Player",
+    "category": "Hard Work"
+  },
+  {
+    "id": 11,
+    "content": "Your attitude determines your direction.",
+    "author": "Unknown",
+    "category": "Attitude"
+  },
+  {
+    "id": 12,
+    "content": "The only person you should try to be better than is the person you were yesterday.",
+    "author": "Unknown",
+    "category": "Self-Improvement"
+  },
+  {
+    "id": 13,
+    "content": "Success is not in what you have, but who you are.",
+    "author": "Bo Bennett",
+    "category": "Success"
+  },
+  {
+    "id": 14,
+    "content": "Every accomplishment starts with the decision to try.",
+    "author": "Unknown",
+    "category": "Action"
+  },
+  {
+    "id": 15,
+    "content": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "Future"
+  },
+  {
+    "id": 16,
+    "content": "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.",
+    "author": "Roy T. Bennett",
+    "category": "Fear"
+  },
+  {
+    "id": 17,
+    "content": "Success is not overnight. It is when every day you get a little better than the day before. It all adds up.",
+    "author": "Dwayne Johnson",
+    "category": "Progress"
+  },
+  {
+    "id": 18,
+    "content": "You are never too old to set another goal or to dream a new dream.",
+    "author": "C.S. Lewis",
+    "category": "Dreams"
+  },
+  {
+    "id": 19,
+    "content": "Believe in the power of your dreams and they may come true.",
+    "author": "Unknown",
+    "category": "Belief"
+  },
+  {
+    "id": 20,
+    "content": "The biggest adventure you can take is to live the life of your dreams.",
+    "author": "Oprah Winfrey",
+    "category": "Adventure"
+  }
+]

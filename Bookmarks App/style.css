@@ -1,0 +1,11 @@
+html, body{
+    min-height:100%;
+    width:100%;
+}
+#folder-data-list:empty:after{
+    content:"No folder/bookmark record found.";
+    color:rgb(158, 158, 158);
+    font-weight: lighter;
+    font-style: italic;
+    text-align: center;
+}
